@@ -1,5 +1,5 @@
 SQL Query - 1
-Send Feedback
+
 Problem Statement:
 List down the student id along with their complete names.
 
