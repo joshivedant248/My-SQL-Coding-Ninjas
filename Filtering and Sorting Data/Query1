@@ -1,9 +1,0 @@
-Problem Statement:
-List down the student id along with their complete names.
-Information about the table:
-Table Student:
-
-
-Output Table Structure:
-
-Query: SELECT stud_id,fname,lname FROM Student;
