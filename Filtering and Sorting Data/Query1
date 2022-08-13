@@ -2,8 +2,7 @@ Problem Statement:
 List down the student id along with their complete names.
 Information about the table:
 Table Student:
-![Image1](https://user-images.githubusercontent.com/97792024/184505720-93e7b2b6-d061-482f-9fa5-a70708950fc5.png)
+
 Output Table Structure:
-![Image2](https://user-images.githubusercontent.com/97792024/184505723-44854456-cb09-4c4a-9d14-de0708f12961.png)
 
 Query: SELECT stud_id,fname,lname FROM Student;
