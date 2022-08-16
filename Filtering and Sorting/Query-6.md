@@ -12,6 +12,7 @@ Table Student:
 Output Table Structure:
 
 ![Image2](https://user-images.githubusercontent.com/97792024/184967326-19690c37-e160-4b0a-aba6-3edb7c3ddaae.png)
+
 Note: Write keywords of syntax in uppercase alphabets.
 
 QUERY:- SELECT * FROM Student WHERE joining_Year BETWEEN 2009 AND 2011;
