@@ -4,9 +4,10 @@ List down the Order ID’s and their respective Ordering time, arranged in Ascen
 
 Information about the table:
 Attributes list: 
-![tab-12520](https://user-images.githubusercontent.com/97792024/184972333-17560874-7027-4e39-90b2-ee50e03a5c57.png)
+![fsd_query23_al-16233](https://user-images.githubusercontent.com/97792024/185155870-72066056-a636-458e-891a-583649873cf8.png)
+
 
 Table e_transactions:
-![fsd_query9table-16178](https://user-images.githubusercontent.com/97792024/184971979-fda507f3-78a4-4a05-8ce4-ee4f602adac3.png)
+![fsd_query23_table-16234](https://user-images.githubusercontent.com/97792024/185155938-27c40b3b-9f71-4e0c-ba12-a40307d6f640.png)
 
 QUERY-SELECT order_id,ordered_time FROM e_transactions ORDER BY ordered_time;
