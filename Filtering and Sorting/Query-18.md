@@ -14,6 +14,8 @@ Attributes list:
 Table Emp_data:
 
 ![fsd_query9table-16178](https://user-images.githubusercontent.com/97792024/184971979-fda507f3-78a4-4a05-8ce4-ee4f602adac3.png)
+
+
 QUERY-
 SELECT Emp_ID, Emp_name FROM Emp_data WHERE Email LIKE '%bcd%' AND Dept IN('D3','D4') 
 AND 
